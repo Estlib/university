@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\KIVIPALLUR-6\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\KIVIPALLUR-6\\.nuget\\packages"
+    ]
+  }
+}
